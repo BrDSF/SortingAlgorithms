@@ -26,6 +26,8 @@ int main(void)
     printf("Ordenated : %d\n", p[i]);
   }
 
+  free(p);
+
   return 0;
 }
 
