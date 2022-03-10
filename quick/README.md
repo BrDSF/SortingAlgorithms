@@ -1,0 +1,3 @@
+->Best case O(nlogn)
+->Worst case O(n), happen when we select the elements on the extremities of the array
+->Space O(n), when need to use all recusive stacks to sort the array, but dont need aux space.
